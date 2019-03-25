@@ -8,7 +8,7 @@ You can change three variables in this script:
 2. superLikeChance - chance of each person to be superliked is superLikeChance
   Any number from 1 to 100 or larger
   
-3. Script will run until your day limit or maxItems number will be reached:
+3. maxItems - script will run until your day limit or maxItems number will be reached:
 Any number from 1 to 100 or larger
 
 
